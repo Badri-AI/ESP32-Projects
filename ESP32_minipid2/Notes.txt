@@ -1,0 +1,1 @@
+Esp32 interfacing with 16 bit ADC to get values from MiniPid VOC sensor.
